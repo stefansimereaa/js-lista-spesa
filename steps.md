@@ -1,6 +1,6 @@
 # Esercizio Lista della spesa
 - Recupero elementi dal DOM
-- Creo l array dove saranno contenuta la lista della spesa
+- Creo l array dove sarà contenuta la lista della spesa
 - Creo un indice per la lista
 - Creo funzione del pulsante Genera
   - **SE** Clicca genera la lista dalla spesa 
